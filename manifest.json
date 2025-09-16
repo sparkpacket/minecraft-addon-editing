@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"TRMashedelf"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.2.13"
+			],
+			"dash": [
+				"0.8.18"
+			]
+		}
+	},
+	"header": {
+		"name": "Personal Vanish",
+		"description": "Adds The Function \"/function vanish\" Which Toggles Off A 100% Invisibility That Hides Armour And Held Items As Well. Created By TRMashedelf.",
+		"min_engine_version": [
+			1,
+			19,
+			0
+		],
+		"uuid": "d9e7d06a-448b-4cf1-b505-cc2eaf1177bd",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "ca7300e3-bd23-423e-bcf9-d2c00303dbeb",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "9428f6cb-0436-40aa-8351-c76457935feb",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
